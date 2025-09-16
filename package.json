@@ -1,0 +1,24 @@
+{
+  "name": "api-filmes",
+  "version": "1.0.0",
+  "description": "uma api de filmes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samaraporto/gc2-api-filmes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samaraporto/gc2-api-filmes/issues"
+  },
+  "homepage": "https://github.com/samaraporto/gc2-api-filmes#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
